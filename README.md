@@ -22,7 +22,7 @@ ml4w-hyprland-setup
 ### Add other packages:
 ```
 # apps
-yay -S nvim code qsynth telegram-desktop
+yay -S code qsynth telegram-desktop
 flatpak install steam vesktop zoom
 # utils
 yay -S game-devices-udev
