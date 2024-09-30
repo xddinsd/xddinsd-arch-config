@@ -1,0 +1,9 @@
+{
+  "remarks": "Ruslan server",
+  "server": "79.137.199.153",
+  "server_port": 443,
+  "local_port": 1080,
+  "password": "lMa4a-xl7Xvzxz2b-gFuOg",
+  "timeout": 600,
+  "method": "chacha20-ietf-poly1305"
+}

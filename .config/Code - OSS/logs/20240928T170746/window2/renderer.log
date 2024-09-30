@@ -1,0 +1,12 @@
+2024-09-28 17:09:20.639 [info] Started local extension host with pid 170117.
+2024-09-28 17:10:25.668 [info] [perf] Render performance baseline is 36ms
+2024-09-28 17:14:42.636 [info] Started local extension host with pid 172453.
+2024-09-28 17:14:46.007 [info] [perf] Render performance baseline is 86ms
+2024-09-28 17:15:26.751 [error] Unable to read file 'vscode-userdata:/home/xddinsd/.config/Code - OSS/User/settings.json' (Error: File not modified since): Error: Unable to read file 'vscode-userdata:/home/xddinsd/.config/Code - OSS/User/settings.json' (Error: File not modified since)
+    at r.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:673:19341)
+    at r.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:673:19227)
+    at async p.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2466:35620)
+    at async p.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2466:35377)
+    at async P.Db (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2455:12240)
+    at async P.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2455:10652)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2466:31399
