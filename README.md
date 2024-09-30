@@ -20,11 +20,19 @@ ml4w-hyprland-setup
 ```
 
 ### Add other packages:
-```
-# apps
+
+##### apps
+```bash
 yay -S code qsynth telegram-desktop
 flatpak install steam vesktop zoom
-# utils
-yay -S game-devices-udev
-# code
+```
+##### utils
+```bash
+yay -S game-devices-udev zsh-vi-mode
+```
+##### code
+```bash
 yay -S python-pip 
+```
+
+### clone this repo to home folder
